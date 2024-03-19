@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi desenvolvido para aprimorar meus conhecimentos em HTML e CSS, e tambem é um pilo para o Projeto Iara Games. A pagina foi feita com base nas regras de acessibilidade da WCAG.
 
-- [Acesse o projeto finalizado, online](https://geduarte01.github.io/Projeto-Lista-de-jogos/)
+- [Acesse o projeto finalizado!](https://geduarte01.github.io/Projeto-Lista-de-jogos/)
 
 
 ## Acessibilidade e Melhorias
